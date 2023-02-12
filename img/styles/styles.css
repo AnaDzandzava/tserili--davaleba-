@@ -1,0 +1,314 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    background-color: #000000;
+}
+
+/*------ headeris stilebebi------ */
+header {
+    height: 100px;
+    border-bottom: #c3c3c3 1px solid;
+    padding: 38px 124px 38px 60px;
+}
+
+header h2 {
+    margin-right: 724px;
+    display: flex;
+    font-size: 20px;
+    float: left;
+}
+
+header h2 a {
+    color: #ffffff;
+}
+
+header nav ul li {
+    float: left;
+    margin-left: 20px;
+}
+
+header nav ul li a {
+    color: #ffffff;
+}
+
+/*------ mainis stilebebi------ */
+main h2 {
+    color: #ffffff;
+    letter-spacing: 130px;
+    font-size: 128px;
+    margin-top: 50px;
+    margin-left: 75px;
+    margin-right: 62px;
+}
+
+.mshobeli {
+    color: #ffffff;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 183px;
+    font-size: 18px;
+}
+
+.dro {
+    width: 296px;
+    height: 48px;
+}
+
+.ricxvi {
+    width: 296px;
+    height: 48px;
+}
+
+.text {
+    width: 600px;
+    height: 48px;
+}
+
+.shvilitexti {
+    margin-bottom: 0px;
+}
+
+.line {
+    border-bottom: #c3c3c3 1px solid;
+    width: 100%;
+    margin-top: 110px;
+}
+
+/* <!-- konvertis mshoblebi --> */
+.mshobelii {
+    color: #ffffff;
+    width: 124px;
+    height: 24px;
+    font-size: 18px;
+    margin-top: 30px;
+    display: flex;
+    margin-bottom: 25px;
+}
+
+.konverti {
+    margin-left: 9px;
+}
+
+.konverti2 {
+    margin-left: 380px;
+}
+
+.konverti3 {
+    margin: 430px;
+    margin-top: 3px;
+}
+
+/* <!--suratebis mshoblebi --> */
+.suratebisdeda {
+    display: flex;
+}
+
+.photo {
+    margin-left: 9px;
+    width: 464px;
+    height: 628px;
+    overflow: hidden;
+}
+
+.photo img {
+    width: 100%;
+}
+
+.photo2 {
+    margin-left: 14px;
+    width: 464px;
+    height: 628px;
+    width: 33.33%;
+    overflow: hidden;
+}
+
+.photo2 img {
+    width: 100%;
+    height: 100%;
+}
+
+.photo3 {
+    margin-left: 14px;
+    width: 464px;
+    width: 33, 33%;
+    height: 628px;
+    overflow: hidden;
+}
+
+.photo3 img {
+    width: 100%;
+    height: 100%;
+}
+
+/* <!--footeris stilebi --> */
+.bololine {
+    border-bottom: #c3c3c3 1px solid;
+    width: 100%;
+    margin-top: 60px;
+}
+
+footer {
+    color: #c3c3c3;
+    display: flex;
+}
+
+.photo4 {
+    margin-left: 50px;
+    margin-top: 20px;
+    height: 50px;
+    width: 50px;
+    overflow: hidden;
+}
+
+.photo4 img {
+    width: 100%;
+}
+
+.shekveta {
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+footer p {
+    font-size: 22px;
+}
+
+footer span {
+    font-size: 15px;
+}
+
+/* -----indexmeore.html is stilebi ------*/
+.bololinee {
+    border-bottom: #c3c3c3 1px solid;
+    width: 100%;
+    margin-top: 60px;
+}
+.gel {
+    display: flex;
+}
+
+.suratebi {
+    width: 950px;
+    height: 613px;
+    margin-top: 50px;
+    margin-left: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: #ffffff;
+}
+
+.suratebi img {
+    width: 200px;
+    height: 270px;
+}
+
+.suratebi p {
+    margin-left: 80px;
+}
+
+
+.satauri {
+    margin-left: 1026px;
+    width: 272px;
+    height: 132px;
+    color: #ffffff;
+    text-align: right;
+    font-size: 20px;
+}
+
+/* -----indexmesame.html is stilebi ------*/
+
+.mtavari {
+    margin: 50px;
+    display: flex;
+    color: #ffffff;
+}
+
+.suratii {
+    width: 400px;
+    height: 550px;
+}
+
+.suratii img {
+    width: 400px;
+    height: 540px;
+}
+
+.sataurii {
+    margin-left: 30px;
+    color: #ffffff;
+    font-size: 18px;
+
+}
+
+.pirv {
+    font-size: 22px;
+}
+
+.meore {
+    margin-top: 30px;
+}
+
+.mesame {
+    margin-top: 18px;
+}
+
+.colors {
+    margin-top: 18px;
+    color: #ffffff;
+
+}
+
+.wremshobeli {
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+}
+
+.wre {
+    width: 15px;
+    height: 15px;
+    background-color: #F6B058;
+    border-radius: 50%;
+    display: flex;
+    margin-top: 25px;
+}
+
+.wre2 {
+    background-color: #3E93F6;
+    border-radius: 50%;
+    display: flex;
+    width: 15px;
+    height: 15px;
+    margin-top: 25px;
+}
+
+.wre3 {
+    background-color: #FF7070;
+    border-radius: 50%;
+    display: flex;
+    width: 15px;
+    height: 15px;
+    margin-top: 25px;
+}
+
+.wre4 {
+    background-color: #E8E8E8;
+    border-radius: 50%;
+    display: flex;
+    width: 15px;
+    height: 15px;
+    margin-top: 25px;
+}
+
+.shuekvete {
+    color: #ffffff;
+    font-size: 24px;
+    margin-left: 30px;
+    margin-bottom: -20px;
+}
